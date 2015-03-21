@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Functions for computing the inverse of a matrix, storing it in the cache 
+## memory and loading it from the cache memory for subsequent inversions without new
+## computations.
 
 ## Create a special matrix starting from the matrix 'x', that is actually a list 
 ## of functions for setting and getting the cache values of the matrix itself and 
